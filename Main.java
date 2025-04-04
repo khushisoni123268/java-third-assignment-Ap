@@ -16,3 +16,12 @@ class Main {
 
     }
 }
+/*
+ *output
+ * Before swapping:
+A=70
+B=110
+After Swapping:
+A=110
+B=70
+ */
